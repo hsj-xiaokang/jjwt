@@ -1,4 +1,5 @@
 and have other JWT(current-version):
+https://github.com/auth0/java-jwt
 <dependency>
             <groupId>com.auth0</groupId>
             <artifactId>java-jwt</artifactId>
